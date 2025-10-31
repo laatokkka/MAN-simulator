@@ -1,0 +1,17 @@
+# ninja log v7
+61	382	7835339229160601	MANSimulator_autogen/timestamp	c9f1247be7761d3
+61	382	7835339229160601	MANSimulator_autogen/mocs_compilation.cpp	c9f1247be7761d3
+61	382	7835339229160601	D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/timestamp	c9f1247be7761d3
+61	382	7835339229160601	D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/mocs_compilation.cpp	c9f1247be7761d3
+1689	9158	7835309219569979	CMakeFiles/MANSimulator.dir/server/Server.cpp.obj	84e7bd1138427a58
+1681	9504	7835309219487946	CMakeFiles/MANSimulator.dir/MANSimulator_autogen/mocs_compilation.cpp.obj	b48d7f4d48ab1524
+7893	8312	7835339307473480	MANSimulator.exe	2a5dbc8260b6691e
+1428	8061	7834647908582168	CMakeFiles/MANSimulator.dir/server/gui/Settings.cpp.obj	a359c0fc3b335e47
+1698	9479	7835309219652276	CMakeFiles/MANSimulator.dir/server/gui/Menu.cpp.obj	20e72a5476dcc835
+383	7893	7835339232369641	CMakeFiles/MANSimulator.dir/server/gui/scene/Field.cpp.obj	b6d80d3a5c44b8dc
+38	356	7835343731286176	MANSimulator_autogen/timestamp	c9f1247be7761d3
+38	356	7835343731286176	MANSimulator_autogen/mocs_compilation.cpp	c9f1247be7761d3
+38	356	7835343731286176	D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/timestamp	c9f1247be7761d3
+38	356	7835343731286176	D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/mocs_compilation.cpp	c9f1247be7761d3
+357	7382	7835343734473972	CMakeFiles/MANSimulator.dir/server/gui/scene/Field.cpp.obj	b6d80d3a5c44b8dc
+7382	7782	7835343804720357	MANSimulator.exe	2a5dbc8260b6691e
