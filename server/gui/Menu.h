@@ -27,8 +27,7 @@ class Menu : public QWidget {
 
         GameField *game_field_ = nullptr;
 
-        // TODO нвпрямую в классе Menu
-        // Settings *settings_ = nullptr;
+        // TODO Settings напрямую в классе Menu
 
         // TODO cигналы связать с отправкой сигналов ИА
         // Timer* timer_ = nullptr;

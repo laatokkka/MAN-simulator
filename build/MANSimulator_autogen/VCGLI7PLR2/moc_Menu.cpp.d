@@ -1,6 +1,7 @@
 D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/VCGLI7PLR2/moc_Menu.cpp: D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.h \
   D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/moc_predefs.h \
   D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h \
+  D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/PlayerDialog.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/QList \
   D:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   D:/Qt/6.9.1/mingw_64/include/QtCore/QRect \
@@ -14,6 +15,7 @@ D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/VCGLI7PLR2/
   D:/Qt/6.9.1/mingw_64/include/QtCore/q20utility.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/q23utility.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qabstracteventdispatcher.h \
+  D:/Qt/6.9.1/mingw_64/include/QtCore/qabstractitemmodel.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qalgorithms.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qanystringview.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qarraydata.h \
@@ -90,6 +92,7 @@ D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/VCGLI7PLR2/
   D:/Qt/6.9.1/mingw_64/include/QtCore/qprocessordetection.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qrect.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qrefcount.h \
+  D:/Qt/6.9.1/mingw_64/include/QtCore/qregularexpression.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qscopedpointer.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qscopeguard.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/qset.h \
@@ -177,25 +180,38 @@ D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/VCGLI7PLR2/
   D:/Qt/6.9.1/mingw_64/include/QtGui/qrgba64.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qscreen.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qscreen_platform.h \
+  D:/Qt/6.9.1/mingw_64/include/QtGui/qtextcursor.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qtextdocument.h \
+  D:/Qt/6.9.1/mingw_64/include/QtGui/qtextformat.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qtextoption.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qtgui-config.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qtguiexports.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qtguiglobal.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qtransform.h \
+  D:/Qt/6.9.1/mingw_64/include/QtGui/qvalidator.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qvector2d.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qvectornd.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs.h \
   D:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/QComboBox \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/QDialog \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/QDialogButtonBox \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/QGraphicsScene \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/QGraphicsView \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/QHBoxLayout \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/QLabel \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/QLineEdit \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/QPushButton \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/QWidget \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractscrollarea.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractslider.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractspinbox.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qcombobox.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qframe.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qgraphicsscene.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qgraphicsview.h \
@@ -203,9 +219,16 @@ D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/VCGLI7PLR2/
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qlabel.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayout.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qlayoutitem.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qlineedit.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qpushbutton.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qrubberband.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qscrollarea.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qslider.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qstyle.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qstyleoption.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qtabbar.h \
+  D:/Qt/6.9.1/mingw_64/include/QtWidgets/qtabwidget.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \
   D:/Qt/6.9.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h \

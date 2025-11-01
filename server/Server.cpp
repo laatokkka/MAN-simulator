@@ -4,6 +4,8 @@ Server::Server(int argc, char *argv[]) : app_(argc, argv) {
     main_window_ = new Menu();
     main_window_->show();
 
+    // TODO инициализация всех параметров из файла
+
     // TODO логика симуляции
 }
 

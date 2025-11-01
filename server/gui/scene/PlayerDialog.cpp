@@ -1,9 +1,11 @@
 #include "PlayerDialog.h"
 
 #include <QIntValidator>
+#include <QPushButton>
+#include <QFormLayout>
+#include <QVBoxLayout>
 
 PlayerDialog::PlayerDialog(QWidget *parent) {
-
     full_name_ = new QLineEdit(this);
     number_ = new QLineEdit(this);
 
@@ -11,119 +13,62 @@ PlayerDialog::PlayerDialog(QWidget *parent) {
     QIntValidator *validator = new QIntValidator(1, 99, this);
     number_->setValidator(validator);
 
-    
+    position_ = new QComboBox(this);
 
+    // TODO уточнить наименования в RoboCup
+    position_->addItems({"Goalie", "Defender", "Midfielder", "Forward"});
 
+    team_ = new QPushButton("", this);
+    team_->setCheckable(true);
+    team_->setStyleSheet("background-color: #ff5a5f; color: white; font-weight: bold;");
+
+    connect(team_, &QPushButton::toggled, this, [this](bool checked) {
+        if (checked) {
+            team_->setText("");
+            team_->setStyleSheet("background-color: #4da3ff; color: white; font-weight: bold;");
+        } else {
+            team_->setText("");
+            team_->setStyleSheet("background-color: #ff5a5f; color: white; font-weight: bold;");
+        }
+    });
+
+    // TODO центрировать блок
+    buttons_ = new QDialogButtonBox(QDialogButtonBox::Ok | QDialogButtonBox::Cancel, this);
+    connect(buttons_, &QDialogButtonBox::accepted, this, &QDialog::accept);
+    connect(buttons_, &QDialogButtonBox::rejected, this, &QDialog::reject);
+
+    // TODO центрировать все
+    QFormLayout *forms_ = new QFormLayout;
+    forms_->addRow("Name:", full_name_);
+    forms_->addRow("Number:", number_);
+    forms_->addRow("Position:", position_);
+
+    // TODO переделать без левой части с подписыванием
+    forms_->addRow("", team_); 
+
+    QVBoxLayout *mainLayout = new QVBoxLayout(this);
+    mainLayout->addLayout(forms_);
+    mainLayout->addWidget(buttons_);
+
+    setLayout(mainLayout);
 }
 
+void PlayerDialog::add_player() {
+    // TODO to server add player (на сервере ему выдается id)
 
+    setWindowTitle("Add Player");
+}
 
+void PlayerDialog::edit_player() {
+    // TODO импорт данных с сервера с настройками для этого игрока
 
+    setWindowTitle("Edit Player");
+}
 
-            // TODO
-            // QComboBox positionBox;
-            // positionBox.addItems({"Goalkeeper", "Defender", "Midfielder", "Forward"});
+QString PlayerDialog::getPlayerName() const {
+    return full_name_->text();
+}
 
-/*
-            QLineEdit nameEdit;
-            QSpinBox numberSpin;
-            numberSpin.setRange(1, 99);
-            QDialogButtonBox buttons(QDialogButtonBox::Ok | QDialogButtonBox::Cancel);
-
-            // Компоновка
-            
-            form.addRow("Имя игрока:", &nameEdit);
-            form.addRow("Номер:", &numberSpin);
-
-            
-            form.addRow("Позиция:", &positionBox);
-
-            QString position = positionBox.currentText();
-
-            
-
-            // Реакция на кнопки
-            QObject::connect(&buttons, &QDialogButtonBox::accepted, &dialog, &QDialog::accept);
-            QObject::connect(&buttons, &QDialogButtonBox::rejected, &dialog, &QDialog::reject);
-
-            if (dialog.exec() == QDialog::Accepted) {
-                QString name = nameEdit.text();
-                int number = numberSpin.value();
-
-                auto *circle = scene_->addEllipse(
-                    mouse_position.x() - 10,
-                    mouse_position.y() - 10,
-                    20, 20,
-                    QPen(Qt::blue),
-                    QBrush(Qt::darkBlue)
-                );
-
-                circle->setToolTip(QString("%1 (#%2)").arg(name).arg(number));
-                circle->setFlag(QGraphicsItem::ItemIsMovable);
-                circle->setFlag(QGraphicsItem::ItemIsSelectable);
-            }
-        });
-
-*/
-
-
-
-    // else if (event->button() == Qt::RightButton) {
-    //     QMenu sub_menu;
-    //     sub_menu.addAction("Add Player", [this, mouse_position] {
-    //         // TODO окно добавления игрока
-
-    //         auto* circle = scene_->addEllipse(mouse_position.x() - 10, mouse_position.y() - 10, 20, 20, QPen(Qt::blue), QBrush(Qt::darkBlue));
-            
-    //         circle->setFlag(QGraphicsItem::ItemIsMovable);
-    //         circle->setFlag(QGraphicsItem::ItemIsSelectable);
-    //     });
-
-    //     sub_menu.exec(event->globalPosition().toPoint());
-    // }
-//}
-
-
-// TODO сделать чтобы в режиме запущенной симуляции это выполнялось в режиме реального времени
-//      а не сразу перемещалось
-// rect->setFlag(QGraphicsItem::ItemSendsGeometryChanges);
-
-// TODO какие-то ивенты на кнопки привязать (del)
-//void Field::connect_ui() {
-//    QShortcut* right_pressed = new QShortcut();
-//}
-
-// // TODO в отдельный класс 
-//             QDialog dialog(this);
-//             dialog.setWindowTitle("New Player");
-
-//             QFormLayout form;
-
-//             QPushButton teamButton("", &dialog);
-//             teamButton.setStyleSheet("background-color: blue; color: white; font-weight: bold;");
-
-//             teamButton.setCheckable(true);
-//             teamButton.setChecked(false); // по умолчанию Team A
-
-//             form.addRow("Team:", &teamButton);
-
-//             // реакция на нажатие
-//             QObject::connect(&teamButton, &QPushButton::toggled, [&](bool checked) {
-//                 if (checked) {
-//                     teamButton.setText("");
-//                     teamButton.setStyleSheet("background-color: blue; color: white; font-weight: bold;");
-//                 } else {
-//                     teamButton.setText("");
-//                     teamButton.setStyleSheet("background-color: red; color: white; font-weight: bold;");
-//                 } 
-//             });
-
-//             QVBoxLayout layout;
-//             layout.addLayout(&form);
-//             //layout.addWidget(&buttons);
-
-//             dialog.setLayout(&layout);
-
-//             if (dialog.exec() == QDialog::Accepted) {
-//                 // TODO 
-//             }
+int PlayerDialog::getPlayerNumber() const {
+    return number_->text().toInt(); 
+}

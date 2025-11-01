@@ -1,4 +1,5 @@
 #pragma once
+#include "PlayerDialog.h"
 
 #include <QGraphicsView>
 #include <QGraphicsScene>
@@ -7,15 +8,12 @@
 class GameField : public QGraphicsView {
     Q_OBJECT
     private:
-        QGraphicsScene* scene_ = nullptr;
+        QGraphicsScene *scene_ = nullptr;
+        PlayerDialog *dialog_ = nullptr;
 
         void create_field();
 
-
-        //void connect_ui();
-
     protected:
-        // Обработка нажатий
         void mousePressEvent(QMouseEvent *event) override;
 
     public:
