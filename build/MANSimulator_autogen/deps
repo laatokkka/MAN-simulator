@@ -10,8 +10,10 @@ MANSimulator_autogen/timestamp: \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.h \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h \
-	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.cpp \
-	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.h \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.cpp \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.h \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QList \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QRect \
@@ -198,6 +200,7 @@ MANSimulator_autogen/timestamp: \
 	D:/Qt/6.9.1/mingw_64/include/QtGui/qvectornd.h \
 	D:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs.h \
 	D:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+	D:/Qt/6.9.1/mingw_64/include/QtWidgets/QDialog \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/QGraphicsScene \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/QGraphicsView \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/QHBoxLayout \
@@ -207,6 +210,7 @@ MANSimulator_autogen/timestamp: \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractbutton.h \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qabstractscrollarea.h \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qboxlayout.h \
+	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qframe.h \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qgraphicsscene.h \
 	D:/Qt/6.9.1/mingw_64/include/QtWidgets/qgraphicsview.h \

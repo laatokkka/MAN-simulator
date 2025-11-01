@@ -313,9 +313,15 @@
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.h",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.h",
 			"Mu",
-			"ECLZ5X74XQ/moc_Field.cpp",
+			"ECLZ5X74XQ/moc_AddPlayerDialog.cpp",
+			null
+		],
+		[
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h",
+			"Mu",
+			"ECLZ5X74XQ/moc_GameField.cpp",
 			null
 		]
 	],
@@ -409,7 +415,12 @@
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.cpp",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp",
 			"Mu",
 			null
 		]
