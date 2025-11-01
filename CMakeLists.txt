@@ -11,20 +11,18 @@ set(SRCS
     server/Server.cpp
 
     server/gui/Menu.cpp
-    server/gui/Settings.cpp
 
     server/gui/scene/GameField.cpp
-    server/gui/scene/AddPlayerDialog.cpp
+    server/gui/scene/PlayerDialog.cpp
 )
 
 set(HDRS
     server/Server.h
 
     server/gui/Menu.h
-    server/gui/Settings.h
 
     server/gui/scene/GameField.h
-    server/gui/scene/AddPlayerDialog.h
+    server/gui/scene/PlayerDialog.h
 )
 
 # Создание исполняемого файла

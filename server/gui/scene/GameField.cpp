@@ -11,7 +11,9 @@
 #include <QComboBox>
 #include <QPushButton>
 
-GameField::GameField(QWidget* parent) {
+GameField::GameField(QWidget *parent) {
+    dialog_ = new PlayerDialog();
+
     scene_ = new QGraphicsScene(this);
     setScene(scene_);
 
@@ -19,7 +21,7 @@ GameField::GameField(QWidget* parent) {
     setDragMode(QGraphicsView::NoDrag);
     
     // TODO добавить приближение / отдаление
-    //setDragMode(QGraphicsView::ScrollHandDrag);
+    // setDragMode(QGraphicsView::ScrollHandDrag);
 
     setSceneRect(0, 0, 350, 500);
     create_field();
@@ -31,6 +33,8 @@ void GameField::create_field() {
     QColor BORDER_COLOR = QColor(191, 154, 85);
     QColor BACKGROUND_COLOR_DARK = QColor(20, 20, 20);
     QColor BACKGROUND_COLOR_LIGHT = QColor(26, 26, 26);
+
+    // TODO все это засунуть в QGraphicsLayer
 
     // Задний фон
     double stripe_width = 30; // qt round it
@@ -48,6 +52,7 @@ void GameField::create_field() {
         border += stripe_width;
     }
 
+    // TODO + 1 полоса сверху и снизу
     scene_->addRect(0, border, 340, 20, QPen(BACKGROUND_COLOR_LIGHT), QBrush(BACKGROUND_COLOR_LIGHT));
 
     // TODO границы сцены
@@ -61,7 +66,8 @@ void GameField::create_field() {
     scene_->addRect(120, 470, 100, 20, QPen(BORDER_COLOR, 1));
 }
 
-void GameField::mousePressEvent(QMouseEvent* event) {
+void GameField::mousePressEvent(QMouseEvent *event) {
+    // TODO каждый раз при нажатии на поле останавливать симуляцию (Timer)
     QPointF mouse_position = mapToScene(event->pos());
 
     if (event->button() == Qt::LeftButton) {
@@ -70,17 +76,40 @@ void GameField::mousePressEvent(QMouseEvent* event) {
 
     } else if (event->button() == Qt::RightButton) {
         QMenu sub_menu;
-        sub_menu.addAction("Add Player", [this, mouse_position] {
+        QGraphicsItem *clicked_item = itemAt(mouse_position.toPoint());
 
-        });
+        if (clicked_item != nullptr && clicked_item->type() == QGraphicsEllipseItem::Type) {
+            sub_menu.addAction("Remove Player", [this, mouse_position] {
+                // TODO удаление игрока с поля и рассылка информации об этом остальным
+            });
 
-        sub_menu.addAction("Remove Player", [this, mouse_position] {
-            // ?
-        });
+            sub_menu.addAction("Edit Player", [this, mouse_position] {
 
-        sub_menu.addAction("Edit Player", [this, mouse_position] {
-            // TODO повторное открытие окна при нажатии на игрока
-        });
+                dialog_->edit_player();
+            });
+        } 
+        else {
+            sub_menu.addAction("Add Player", [this, mouse_position] {
+                dialog_->add_player();
+                if (dialog_->exec() == QDialog::Accepted) {
+                    QString name = dialog_->getPlayerName();  // Предположим, что метод getPlayerName() есть в диалоге
+                    int number = dialog_->getPlayerNumber();  // Предположим, что метод getPlayerNumber() есть в диалоге
+
+                    auto *circle = scene_->addEllipse(
+                        mouse_position.x() - 10,
+                        mouse_position.y() - 10,
+                        20, 20, // TODO параметр размера ИА
+                        QPen(Qt::blue),
+                        QBrush(Qt::darkBlue)
+                    );
+
+                    circle->setToolTip(QString("%1 (#%2)").arg(name).arg(number));
+
+                    circle->setFlag(QGraphicsItem::ItemIsMovable);
+                    circle->setFlag(QGraphicsItem::ItemIsSelectable);
+                }
+            });
+        }
 
         sub_menu.exec(event->globalPosition().toPoint());
     }

@@ -76,15 +76,6 @@ build CMakeFiles/MANSimulator.dir/server/gui/Menu.cpp.obj: CXX_COMPILER__MANSimu
   OBJECT_DIR = CMakeFiles\MANSimulator.dir
   OBJECT_FILE_DIR = CMakeFiles\MANSimulator.dir\server\gui
 
-build CMakeFiles/MANSimulator.dir/server/gui/Settings.cpp.obj: CXX_COMPILER__MANSimulator_unscanned_Debug D$:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp || cmake_object_order_depends_target_MANSimulator
-  CONFIG = Debug
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\MANSimulator.dir\server\gui\Settings.cpp.obj.d
-  FLAGS = -g -std=gnu++20
-  INCLUDES = -ID:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/include -ID:/Programming/cpp-projects/MAN-simulator/server -ID:/Programming/cpp-projects/MAN-simulator/server/gui -ID:/Programming/cpp-projects/MAN-simulator/server/gui/scene -ID:/Programming/cpp-projects/MAN-simulator/player -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
-  OBJECT_DIR = CMakeFiles\MANSimulator.dir
-  OBJECT_FILE_DIR = CMakeFiles\MANSimulator.dir\server\gui
-
 build CMakeFiles/MANSimulator.dir/server/gui/scene/GameField.cpp.obj: CXX_COMPILER__MANSimulator_unscanned_Debug D$:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp || cmake_object_order_depends_target_MANSimulator
   CONFIG = Debug
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
@@ -94,10 +85,10 @@ build CMakeFiles/MANSimulator.dir/server/gui/scene/GameField.cpp.obj: CXX_COMPIL
   OBJECT_DIR = CMakeFiles\MANSimulator.dir
   OBJECT_FILE_DIR = CMakeFiles\MANSimulator.dir\server\gui\scene
 
-build CMakeFiles/MANSimulator.dir/server/gui/scene/AddPlayerDialog.cpp.obj: CXX_COMPILER__MANSimulator_unscanned_Debug D$:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.cpp || cmake_object_order_depends_target_MANSimulator
+build CMakeFiles/MANSimulator.dir/server/gui/scene/PlayerDialog.cpp.obj: CXX_COMPILER__MANSimulator_unscanned_Debug D$:/Programming/cpp-projects/MAN-simulator/server/gui/scene/PlayerDialog.cpp || cmake_object_order_depends_target_MANSimulator
   CONFIG = Debug
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
-  DEP_FILE = CMakeFiles\MANSimulator.dir\server\gui\scene\AddPlayerDialog.cpp.obj.d
+  DEP_FILE = CMakeFiles\MANSimulator.dir\server\gui\scene\PlayerDialog.cpp.obj.d
   FLAGS = -g -std=gnu++20
   INCLUDES = -ID:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/include -ID:/Programming/cpp-projects/MAN-simulator/server -ID:/Programming/cpp-projects/MAN-simulator/server/gui -ID:/Programming/cpp-projects/MAN-simulator/server/gui/scene -ID:/Programming/cpp-projects/MAN-simulator/player -isystem D:/Qt/6.9.1/mingw_64/include/QtCore -isystem D:/Qt/6.9.1/mingw_64/include -isystem D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem D:/Qt/6.9.1/mingw_64/include/QtGui
   OBJECT_DIR = CMakeFiles\MANSimulator.dir
@@ -111,7 +102,7 @@ build CMakeFiles/MANSimulator.dir/server/gui/scene/AddPlayerDialog.cpp.obj: CXX_
 #############################################
 # Link the executable MANSimulator.exe
 
-build MANSimulator.exe: CXX_EXECUTABLE_LINKER__MANSimulator_Debug CMakeFiles/MANSimulator.dir/MANSimulator_autogen/mocs_compilation.cpp.obj CMakeFiles/MANSimulator.dir/server/Server.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/Menu.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/Settings.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/scene/GameField.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/scene/AddPlayerDialog.cpp.obj | D$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a || MANSimulator_autogen MANSimulator_autogen_timestamp_deps
+build MANSimulator.exe: CXX_EXECUTABLE_LINKER__MANSimulator_Debug CMakeFiles/MANSimulator.dir/MANSimulator_autogen/mocs_compilation.cpp.obj CMakeFiles/MANSimulator.dir/server/Server.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/Menu.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/scene/GameField.cpp.obj CMakeFiles/MANSimulator.dir/server/gui/scene/PlayerDialog.cpp.obj | D$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a D$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a || MANSimulator_autogen MANSimulator_autogen_timestamp_deps
   CONFIG = Debug
   FLAGS = -g
   LINK_LIBRARIES = D:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a  D:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a  D:/Qt/6.9.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

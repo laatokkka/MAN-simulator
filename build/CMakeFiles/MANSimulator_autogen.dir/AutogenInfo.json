@@ -307,21 +307,15 @@
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h",
-			"Mu",
-			"VCGLI7PLR2/moc_Settings.cpp",
-			null
-		],
-		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.h",
-			"Mu",
-			"ECLZ5X74XQ/moc_AddPlayerDialog.cpp",
-			null
-		],
-		[
 			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h",
 			"Mu",
 			"ECLZ5X74XQ/moc_GameField.cpp",
+			null
+		],
+		[
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/PlayerDialog.h",
+			"Mu",
+			"ECLZ5X74XQ/moc_PlayerDialog.cpp",
 			null
 		]
 	],
@@ -410,17 +404,12 @@
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp",
-			"Mu",
-			null
-		],
-		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.cpp",
-			"Mu",
-			null
-		],
-		[
 			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/PlayerDialog.cpp",
 			"Mu",
 			null
 		]

@@ -6,9 +6,9 @@
 class Server {
     private:
         QApplication app_;
-        Menu* main_window_ = nullptr;
+        Menu *main_window_ = nullptr;
                 
     public:
-        explicit Server(int argc, char* argv[]);
+        explicit Server(int argc, char *argv[]);
         int run();
 };
