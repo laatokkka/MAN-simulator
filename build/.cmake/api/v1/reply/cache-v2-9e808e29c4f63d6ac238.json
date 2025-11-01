@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/Programming/cpp-projects/MAN-football-simulator/build"
+			"value" : "d:/Programming/cpp-projects/MAN-simulator/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects"
+			"value" : "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -527,7 +527,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/Programming/cpp-projects/MAN-football-simulator"
+			"value" : "D:/Programming/cpp-projects/MAN-simulator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1539,7 +1539,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Programming/cpp-projects/MAN-football-simulator/build"
+			"value" : "D:/Programming/cpp-projects/MAN-simulator/build"
 		},
 		{
 			"name" : "MANSimulator_IS_TOP_LEVEL",
@@ -1563,7 +1563,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/Programming/cpp-projects/MAN-football-simulator"
+			"value" : "D:/Programming/cpp-projects/MAN-simulator"
 		},
 		{
 			"name" : "QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH",

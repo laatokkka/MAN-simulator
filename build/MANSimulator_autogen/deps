@@ -1,17 +1,17 @@
 MANSimulator_autogen/timestamp: \
-	D:/Programming/cpp-projects/MAN-football-simulator/CMakeLists.txt \
-	D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake \
-	D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake \
-	D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CMakeSystem.cmake \
-	D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/moc_predefs.h \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/Server.cpp \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/Server.h \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Menu.cpp \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Menu.h \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Settings.cpp \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Settings.h \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene/Field.cpp \
-	D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene/Field.h \
+	D:/Programming/cpp-projects/MAN-simulator/CMakeLists.txt \
+	D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake \
+	D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake \
+	D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CMakeSystem.cmake \
+	D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/moc_predefs.h \
+	D:/Programming/cpp-projects/MAN-simulator/server/Server.cpp \
+	D:/Programming/cpp-projects/MAN-simulator/server/Server.h \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.cpp \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.h \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.cpp \
+	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.h \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QList \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
 	D:/Qt/6.9.1/mingw_64/include/QtCore/QRect \

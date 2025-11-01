@@ -43,7 +43,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "MANSimulator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-MANSimulator-Debug-45f8e2b8a308c317d985.json",
+					"jsonFile" : "target-MANSimulator-Debug-c2891e312c01693582a7.json",
 					"name" : "MANSimulator",
 					"projectIndex" : 0
 				},
@@ -67,8 +67,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/Programming/cpp-projects/MAN-football-simulator/build",
-		"source" : "D:/Programming/cpp-projects/MAN-football-simulator"
+		"build" : "D:/Programming/cpp-projects/MAN-simulator/build",
+		"source" : "D:/Programming/cpp-projects/MAN-simulator"
 	},
 	"version" : 
 	{

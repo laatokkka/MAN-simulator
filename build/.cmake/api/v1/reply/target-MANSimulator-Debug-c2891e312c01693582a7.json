@@ -261,23 +261,23 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/include"
+					"path" : "D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/include"
 				},
 				{
 					"backtrace" : 29,
-					"path" : "D:/Programming/cpp-projects/MAN-football-simulator/server"
+					"path" : "D:/Programming/cpp-projects/MAN-simulator/server"
 				},
 				{
 					"backtrace" : 29,
-					"path" : "D:/Programming/cpp-projects/MAN-football-simulator/server/gui"
+					"path" : "D:/Programming/cpp-projects/MAN-simulator/server/gui"
 				},
 				{
 					"backtrace" : 29,
-					"path" : "D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene"
+					"path" : "D:/Programming/cpp-projects/MAN-simulator/server/gui/scene"
 				},
 				{
 					"backtrace" : 29,
-					"path" : "D:/Programming/cpp-projects/MAN-football-simulator/player"
+					"path" : "D:/Programming/cpp-projects/MAN-simulator/player"
 				},
 				{
 					"backtrace" : 13,
@@ -328,11 +328,11 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "MANSimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "MANSimulator_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "MANSimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "MANSimulator::@6890427a1f51a3e7e1df",

@@ -1,7 +1,7 @@
-D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/VCGLI7PLR2/moc_Menu.cpp: D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Menu.h \
-  D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/moc_predefs.h \
-  D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Settings.h \
-  D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene/Field.h \
+D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/VCGLI7PLR2/moc_Menu.cpp: D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.h \
+  D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/moc_predefs.h \
+  D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h \
+  D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.h \
   D:/Qt/6.9.1/mingw_64/include/QtCore/QList \
   D:/Qt/6.9.1/mingw_64/include/QtCore/QObject \
   D:/Qt/6.9.1/mingw_64/include/QtCore/QRect \

@@ -2,23 +2,26 @@
 #include <QShortcut>
 #include <QMenu>
 #include <QGraphicsItem>
+#include <QDialog>
+#include <QLineEdit>
+#include <QSpinBox> 
+#include <QDialogButtonBox>
+#include <QFormLayout>
+#include <QComboBox>
 
 Field::Field(QWidget* parent) {
     scene_ = new QGraphicsScene(this);
     setScene(scene_);
 
-    setRenderHint(QPainter::Antialiasing); // TODO delete this
+    setRenderHint(QPainter::Antialiasing);
     setDragMode(QGraphicsView::NoDrag);
     
     // TODO добавить приближение / отдаление
-    //setDragMode(QGraphicsView::NoDrag);
     //setDragMode(QGraphicsView::ScrollHandDrag);
 
     setSceneRect(0, 0, 350, 500);
     create_field();
 }
-
-
 
 void Field::create_field() {
     scene_->clear();
@@ -64,20 +67,83 @@ void Field::mousePressEvent(QMouseEvent* event) {
         QGraphicsView::mousePressEvent(event);
 
 
-    }
-    else if (event->button() == Qt::RightButton) {
+    } else if (event->button() == Qt::RightButton) {
         QMenu sub_menu;
         sub_menu.addAction("Add Player", [this, mouse_position] {
-            // TODO окно добавления игрока
+            // TODO в отдельный класс
+            QDialog dialog(this);
+            dialog.setWindowTitle("New Player");
 
-            auto* circle = scene_->addEllipse(mouse_position.x() - 10, mouse_position.y() - 10, 20, 20, QPen(Qt::blue), QBrush(Qt::darkBlue));
-            
-            circle->setFlag(QGraphicsItem::ItemIsMovable);
-            circle->setFlag(QGraphicsItem::ItemIsSelectable);
+            QLineEdit nameEdit;
+            QSpinBox numberSpin;
+            numberSpin.setRange(1, 99);
+            QDialogButtonBox buttons(QDialogButtonBox::Ok | QDialogButtonBox::Cancel);
+
+            // Компоновка
+            QFormLayout form;
+            form.addRow("Имя игрока:", &nameEdit);
+            form.addRow("Номер:", &numberSpin);
+
+            QComboBox positionBox;
+            positionBox.addItems({"Goalkeeper", "Defender", "Midfielder", "Forward"});
+            form.addRow("Позиция:", &positionBox);
+
+            QString position = positionBox.currentText();
+
+            QVBoxLayout layout;
+            layout.addLayout(&form);
+            layout.addWidget(&buttons);
+
+            dialog.setLayout(&layout);
+
+            // Реакция на кнопки
+            QObject::connect(&buttons, &QDialogButtonBox::accepted, &dialog, &QDialog::accept);
+            QObject::connect(&buttons, &QDialogButtonBox::rejected, &dialog, &QDialog::reject);
+
+            if (dialog.exec() == QDialog::Accepted) {
+                QString name = nameEdit.text();
+                int number = numberSpin.value();
+
+                auto *circle = scene_->addEllipse(
+                    mouse_position.x() - 10,
+                    mouse_position.y() - 10,
+                    20, 20,
+                    QPen(Qt::blue),
+                    QBrush(Qt::darkBlue)
+                );
+
+                circle->setToolTip(QString("%1 (#%2)").arg(name).arg(number));
+                circle->setFlag(QGraphicsItem::ItemIsMovable);
+                circle->setFlag(QGraphicsItem::ItemIsSelectable);
+            }
+        });
+
+        sub_menu.addAction("Remove Player", [this, mouse_position] {
+            // ?
+        });
+
+        sub_menu.addAction("Edit Player", [this, mouse_position] {
+            // TODO повторное открытие окна при нажатии на игрока
         });
 
         sub_menu.exec(event->globalPosition().toPoint());
     }
+
+
+
+    // else if (event->button() == Qt::RightButton) {
+    //     QMenu sub_menu;
+    //     sub_menu.addAction("Add Player", [this, mouse_position] {
+    //         // TODO окно добавления игрока
+
+    //         auto* circle = scene_->addEllipse(mouse_position.x() - 10, mouse_position.y() - 10, 20, 20, QPen(Qt::blue), QBrush(Qt::darkBlue));
+            
+    //         circle->setFlag(QGraphicsItem::ItemIsMovable);
+    //         circle->setFlag(QGraphicsItem::ItemIsSelectable);
+    //     });
+
+    //     sub_menu.exec(event->globalPosition().toPoint());
+    // }
 }
 
 
