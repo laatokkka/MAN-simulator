@@ -1,5 +1,9 @@
 #include "AddPlayerDialog.h"
 
+AddPlayerDialog::AddPlayerDialog(QWidget *parent) {
+
+}
+
 
 
 

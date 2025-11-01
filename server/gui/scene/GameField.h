@@ -16,8 +16,8 @@ class GameField : public QGraphicsView {
 
     protected:
         // Обработка нажатий
-        void mousePressEvent(QMouseEvent* event) override;
+        void mousePressEvent(QMouseEvent *event) override;
 
     public:
-        explicit GameField(QWidget* parent = nullptr);
+        explicit GameField(QWidget *parent = nullptr);
 };

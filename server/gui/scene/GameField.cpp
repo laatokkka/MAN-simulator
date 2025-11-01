@@ -11,7 +11,7 @@
 #include <QComboBox>
 #include <QPushButton>
 
-GameField::GameField(QWidget* parent) {
+GameField::GameField(QWidget *parent) {
     scene_ = new QGraphicsScene(this);
     setScene(scene_);
 
@@ -61,7 +61,7 @@ void GameField::create_field() {
     scene_->addRect(120, 470, 100, 20, QPen(BORDER_COLOR, 1));
 }
 
-void GameField::mousePressEvent(QMouseEvent* event) {
+void GameField::mousePressEvent(QMouseEvent *event) {
     QPointF mouse_position = mapToScene(event->pos());
 
     if (event->button() == Qt::LeftButton) {

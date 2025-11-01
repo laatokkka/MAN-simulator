@@ -8,8 +8,6 @@ MANSimulator_autogen/timestamp: \
 	D:/Programming/cpp-projects/MAN-simulator/server/Server.h \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.cpp \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.h \
-	D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp \
-	D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.cpp \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.h \
 	D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp \

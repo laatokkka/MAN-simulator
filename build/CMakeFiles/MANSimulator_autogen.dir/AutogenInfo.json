@@ -307,12 +307,6 @@
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h",
-			"Mu",
-			"VCGLI7PLR2/moc_Settings.cpp",
-			null
-		],
-		[
 			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.h",
 			"Mu",
 			"ECLZ5X74XQ/moc_AddPlayerDialog.cpp",
@@ -406,11 +400,6 @@
 		],
 		[
 			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.cpp",
-			"Mu",
-			null
-		],
-		[
-			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp",
 			"Mu",
 			null
 		],
