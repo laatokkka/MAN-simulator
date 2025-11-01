@@ -1,6 +1,18 @@
-#include "AddPlayerDialog.h"
+#include "PlayerDialog.h"
 
-AddPlayerDialog::AddPlayerDialog(QWidget *parent) {
+#include <QIntValidator>
+
+PlayerDialog::PlayerDialog(QWidget *parent) {
+
+    full_name_ = new QLineEdit(this);
+    number_ = new QLineEdit(this);
+
+    // Валидация для ввода
+    QIntValidator *validator = new QIntValidator(1, 99, this);
+    number_->setValidator(validator);
+
+    
+
 
 }
 

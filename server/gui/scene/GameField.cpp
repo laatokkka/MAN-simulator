@@ -70,17 +70,24 @@ void GameField::mousePressEvent(QMouseEvent *event) {
 
     } else if (event->button() == Qt::RightButton) {
         QMenu sub_menu;
-        sub_menu.addAction("Add Player", [this, mouse_position] {
+        QGraphicsItem *clicked_item = itemAt(mouse_position.toPoint());
 
-        });
+        if (clicked_item != nullptr && clicked_item->type() == QGraphicsEllipseItem::Type) {
+            sub_menu.addAction("Remove Player", [this, mouse_position] {
+                // ?
+            });
 
-        sub_menu.addAction("Remove Player", [this, mouse_position] {
-            // ?
-        });
+            sub_menu.addAction("Edit Player", [this, mouse_position] {
+                // TODO повторное открытие окна при нажатии на игрока
 
-        sub_menu.addAction("Edit Player", [this, mouse_position] {
-            // TODO повторное открытие окна при нажатии на игрока
-        });
+                // open PlayerDialog 
+            });
+        } 
+        else {
+            sub_menu.addAction("Add Player", [this, mouse_position] {
+                // open PlayerDialog 
+            });
+        }
 
         sub_menu.exec(event->globalPosition().toPoint());
     }

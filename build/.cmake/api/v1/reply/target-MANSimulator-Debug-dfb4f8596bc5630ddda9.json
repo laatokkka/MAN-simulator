@@ -328,11 +328,11 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "MANSimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "MANSimulator_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "MANSimulator_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "MANSimulator::@6890427a1f51a3e7e1df",
@@ -471,7 +471,7 @@
 		{
 			"backtrace" : 4,
 			"compileGroupIndex" : 0,
-			"path" : "server/gui/scene/AddPlayerDialog.cpp",
+			"path" : "server/gui/scene/PlayerDialog.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -491,7 +491,7 @@
 		},
 		{
 			"backtrace" : 4,
-			"path" : "server/gui/scene/AddPlayerDialog.h",
+			"path" : "server/gui/scene/PlayerDialog.h",
 			"sourceGroupIndex" : 1
 		},
 		{
