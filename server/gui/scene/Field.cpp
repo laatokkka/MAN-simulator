@@ -8,6 +8,7 @@
 #include <QDialogButtonBox>
 #include <QFormLayout>
 #include <QComboBox>
+#include <QPushButton>
 
 Field::Field(QWidget* parent) {
     scene_ = new QGraphicsScene(this);
@@ -49,7 +50,7 @@ void Field::create_field() {
     scene_->addRect(0, border, 340, 20, QPen(BACKGROUND_COLOR_LIGHT), QBrush(BACKGROUND_COLOR_LIGHT));
 
     // TODO границы сцены
-    // scene_->addRect(0, 0, 350, 500, QPen(BORDER_COLOR, 1));
+    // scene_->addRect(0, 0, 350, 500, QPen(/* Другой цвет */, 1));
 
     // Границы поля
     scene_->addRect(20, 20, 300, 450, QPen(BORDER_COLOR, 1));
@@ -70,31 +71,78 @@ void Field::mousePressEvent(QMouseEvent* event) {
     } else if (event->button() == Qt::RightButton) {
         QMenu sub_menu;
         sub_menu.addAction("Add Player", [this, mouse_position] {
-            // TODO в отдельный класс
+
+
+            // TODO в отдельный класс 
             QDialog dialog(this);
             dialog.setWindowTitle("New Player");
 
+            QFormLayout form;
+
+            QPushButton teamButton("", &dialog);
+            teamButton.setStyleSheet("background-color: blue; color: white; font-weight: bold;");
+            
+            teamButton.setCheckable(true);
+            teamButton.setChecked(false); // по умолчанию Team A
+
+            form.addRow("Команда:", &teamButton);
+
+            // реакция на нажатие
+            QObject::connect(&teamButton, &QPushButton::toggled, [&](bool checked) {
+                if (checked) {
+                    teamButton.setText("");
+                    teamButton.setStyleSheet("background-color: blue; color: white; font-weight: bold;");
+                } else {
+                    teamButton.setText("");
+                    teamButton.setStyleSheet("background-color: red; color: white; font-weight: bold;");
+                } 
+            });
+
+            QVBoxLayout layout;
+            layout.addLayout(&form);
+            //layout.addWidget(&buttons);
+
+            dialog.setLayout(&layout);
+
+            if (dialog.exec() == QDialog::Accepted) {
+                // TODO 
+            }
+
+            // TODO
+            // QComboBox positionBox;
+            // positionBox.addItems({"Goalkeeper", "Defender", "Midfielder", "Forward"});
+
+        });
+
+        sub_menu.addAction("Remove Player", [this, mouse_position] {
+            // ?
+        });
+
+        sub_menu.addAction("Edit Player", [this, mouse_position] {
+            // TODO повторное открытие окна при нажатии на игрока
+        });
+
+        sub_menu.exec(event->globalPosition().toPoint());
+    }
+
+
+/*
             QLineEdit nameEdit;
             QSpinBox numberSpin;
             numberSpin.setRange(1, 99);
             QDialogButtonBox buttons(QDialogButtonBox::Ok | QDialogButtonBox::Cancel);
 
             // Компоновка
-            QFormLayout form;
+            
             form.addRow("Имя игрока:", &nameEdit);
             form.addRow("Номер:", &numberSpin);
 
-            QComboBox positionBox;
-            positionBox.addItems({"Goalkeeper", "Defender", "Midfielder", "Forward"});
+            
             form.addRow("Позиция:", &positionBox);
 
             QString position = positionBox.currentText();
 
-            QVBoxLayout layout;
-            layout.addLayout(&form);
-            layout.addWidget(&buttons);
-
-            dialog.setLayout(&layout);
+            
 
             // Реакция на кнопки
             QObject::connect(&buttons, &QDialogButtonBox::accepted, &dialog, &QDialog::accept);
@@ -118,16 +166,7 @@ void Field::mousePressEvent(QMouseEvent* event) {
             }
         });
 
-        sub_menu.addAction("Remove Player", [this, mouse_position] {
-            // ?
-        });
-
-        sub_menu.addAction("Edit Player", [this, mouse_position] {
-            // TODO повторное открытие окна при нажатии на игрока
-        });
-
-        sub_menu.exec(event->globalPosition().toPoint());
-    }
+*/
 
 
 
