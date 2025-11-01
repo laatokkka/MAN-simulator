@@ -1,5 +1,5 @@
-D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/MANSimulator.dir
-D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/edit_cache.dir
-D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/rebuild_cache.dir
-D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/MANSimulator_autogen_timestamp_deps.dir
-D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/MANSimulator_autogen.dir
+D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/MANSimulator.dir
+D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/edit_cache.dir
+D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/rebuild_cache.dir
+D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/MANSimulator_autogen_timestamp_deps.dir
+D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/MANSimulator_autogen.dir

@@ -1,9 +1,10 @@
 #pragma once
+
 #include <QGraphicsView>
 #include <QGraphicsScene>
 #include <QMouseEvent>
 
-class Field : public QGraphicsView {
+class GameField : public QGraphicsView {
     Q_OBJECT
     private:
         QGraphicsScene* scene_ = nullptr;
@@ -18,5 +19,5 @@ class Field : public QGraphicsView {
         void mousePressEvent(QMouseEvent* event) override;
 
     public:
-        explicit Field(QWidget* parent = nullptr);
+        explicit GameField(QWidget* parent = nullptr);
 };

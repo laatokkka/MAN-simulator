@@ -1,17 +1,17 @@
 {
 	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
-	"BUILD_DIR" : "D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen",
-	"CMAKE_BINARY_DIR" : "D:/Programming/cpp-projects/MAN-football-simulator/build",
-	"CMAKE_CURRENT_BINARY_DIR" : "D:/Programming/cpp-projects/MAN-football-simulator/build",
-	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Programming/cpp-projects/MAN-football-simulator",
+	"BUILD_DIR" : "D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Programming/cpp-projects/MAN-simulator/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Programming/cpp-projects/MAN-simulator/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Programming/cpp-projects/MAN-simulator",
 	"CMAKE_EXECUTABLE" : "D:/msys64/ucrt64/bin/cmake.exe",
 	"CMAKE_LIST_FILES" : 
 	[
-		"D:/Programming/cpp-projects/MAN-football-simulator/CMakeLists.txt",
-		"D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CMakeSystem.cmake",
+		"D:/Programming/cpp-projects/MAN-simulator/CMakeLists.txt",
+		"D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CMakeSystem.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/Platform/Windows-Initialize.cmake",
-		"D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake",
+		"D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CMakeCXXCompiler.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/CMakeGenericSystem.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/CMakeInitializeConfigs.cmake",
@@ -24,7 +24,7 @@
 		"D:/msys64/ucrt64/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/Platform/Windows-GNU-CXX.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/Platform/Windows-GNU.cmake",
-		"D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake",
+		"D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CMakeRCCompiler.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/CMakeRCInformation.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/Platform/Windows-windres.cmake",
 		"D:/msys64/ucrt64/share/cmake/Modules/Platform/Windows-GNU-CXX-ABI.cmake",
@@ -288,40 +288,46 @@
 		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake",
 		"D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake"
 	],
-	"CMAKE_SOURCE_DIR" : "D:/Programming/cpp-projects/MAN-football-simulator",
+	"CMAKE_SOURCE_DIR" : "D:/Programming/cpp-projects/MAN-simulator",
 	"CROSS_CONFIG" : false,
-	"DEP_FILE" : "D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/deps",
+	"DEP_FILE" : "D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/deps",
 	"DEP_FILE_RULE_NAME" : "MANSimulator_autogen/timestamp",
 	"HEADERS" : 
 	[
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/Server.h",
+			"D:/Programming/cpp-projects/MAN-simulator/server/Server.h",
 			"Mu",
 			"ORNZQ2F6DW/moc_Server.cpp",
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Menu.h",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.h",
 			"Mu",
 			"VCGLI7PLR2/moc_Menu.cpp",
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Settings.h",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.h",
 			"Mu",
 			"VCGLI7PLR2/moc_Settings.cpp",
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene/Field.h",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.h",
 			"Mu",
-			"ECLZ5X74XQ/moc_Field.cpp",
+			"ECLZ5X74XQ/moc_AddPlayerDialog.cpp",
+			null
+		],
+		[
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h",
+			"Mu",
+			"ECLZ5X74XQ/moc_GameField.cpp",
 			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/include",
-	"MOC_COMPILATION_FILE" : "D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"MINGW_HAS_SECURE_API=1",
@@ -344,10 +350,10 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"D:/Programming/cpp-projects/MAN-football-simulator/server",
-		"D:/Programming/cpp-projects/MAN-football-simulator/server/gui",
-		"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene",
-		"D:/Programming/cpp-projects/MAN-football-simulator/player",
+		"D:/Programming/cpp-projects/MAN-simulator/server",
+		"D:/Programming/cpp-projects/MAN-simulator/server/gui",
+		"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene",
+		"D:/Programming/cpp-projects/MAN-simulator/player",
 		"D:/Qt/6.9.1/mingw_64/include/QtCore",
 		"D:/Qt/6.9.1/mingw_64/include",
 		"D:/Qt/6.9.1/mingw_64/mkspecs/win32-g++",
@@ -380,36 +386,41 @@
 		"-E",
 		"D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "D:/Programming/cpp-projects/MAN-football-simulator/build/MANSimulator_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 6,
-	"PARSE_CACHE_FILE" : "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/MANSimulator_autogen.dir/ParseCache.txt",
+	"PARSE_CACHE_FILE" : "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/MANSimulator_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "D:/Qt/6.9.1/mingw_64/bin/moc.exe",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 6,
 	"QT_VERSION_MINOR" : 9,
-	"SETTINGS_FILE" : "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/MANSimulator_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/MANSimulator_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/Server.cpp",
+			"D:/Programming/cpp-projects/MAN-simulator/server/Server.cpp",
 			"Mu",
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Menu.cpp",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Menu.cpp",
 			"Mu",
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/Settings.cpp",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp",
 			"Mu",
 			null
 		],
 		[
-			"D:/Programming/cpp-projects/MAN-football-simulator/server/gui/scene/Field.cpp",
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/AddPlayerDialog.cpp",
+			"Mu",
+			null
+		],
+		[
+			"D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp",
 			"Mu",
 			null
 		]

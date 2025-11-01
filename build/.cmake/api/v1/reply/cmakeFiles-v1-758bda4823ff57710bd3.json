@@ -1198,8 +1198,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/Programming/cpp-projects/MAN-football-simulator/build",
-		"source" : "D:/Programming/cpp-projects/MAN-football-simulator"
+		"build" : "D:/Programming/cpp-projects/MAN-simulator/build",
+		"source" : "D:/Programming/cpp-projects/MAN-simulator"
 	},
 	"version" : 
 	{

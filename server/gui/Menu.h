@@ -6,7 +6,7 @@
 #include <QPushButton>
 
 #include "Settings.h"
-#include "Field.h"
+#include "GameField.h"
 
 class Menu : public QWidget {
     Q_OBJECT
@@ -25,7 +25,7 @@ class Menu : public QWidget {
         QPushButton* settings_button_ = nullptr;
         QPushButton* simulation_button_ = nullptr;
 
-        Field* field_ = nullptr;
+        GameField* game_field_ = nullptr;
 
         Settings* settings_ = nullptr;
 

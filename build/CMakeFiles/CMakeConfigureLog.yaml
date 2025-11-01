@@ -39,6 +39,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/Qt/6.9.1/mingw_64/bin/ninja-build.com"
@@ -86,8 +88,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -127,8 +131,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "message-v1"
@@ -150,7 +156,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.0/CompilerIdCXX/a.exe
+        D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/4.1.1/CompilerIdCXX/a.exe
       
   -
     kind: "find-v1"
@@ -179,6 +185,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/ar.com"
@@ -196,8 +204,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -226,6 +236,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/ranlib.com"
@@ -243,8 +255,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -273,6 +287,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/strip.com"
@@ -290,8 +306,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -320,6 +338,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/ld.com"
@@ -337,8 +357,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -367,6 +389,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/nm.com"
@@ -384,8 +408,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -414,6 +440,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/objdump.com"
@@ -431,8 +459,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -461,6 +491,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/objcopy.com"
@@ -478,8 +510,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -508,6 +542,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/readelf.com"
@@ -525,8 +561,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -555,6 +593,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/dlltool.com"
@@ -572,8 +612,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -602,6 +644,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/addr2line.com"
@@ -619,8 +663,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -649,6 +695,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/tapi.com"
@@ -672,6 +720,12 @@ events:
       - "C:/Windows/System32/OpenSSH/tapi.com"
       - "C:/Windows/System32/OpenSSH/tapi.exe"
       - "C:/Windows/System32/OpenSSH/tapi"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/tapi.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/tapi.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/tapi"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/tapi.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/tapi.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/tapi"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/tapi.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/tapi.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/tapi"
@@ -689,8 +743,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -722,6 +778,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/gcc-ar-15.2.com"
@@ -745,6 +803,12 @@ events:
       - "C:/Windows/System32/OpenSSH/gcc-ar-15.2.com"
       - "C:/Windows/System32/OpenSSH/gcc-ar-15.2.exe"
       - "C:/Windows/System32/OpenSSH/gcc-ar-15.2"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar-15.2.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar-15.2.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar-15.2"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar-15.2.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar-15.2.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar-15.2"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.2"
@@ -769,6 +833,12 @@ events:
       - "C:/Windows/System32/OpenSSH/gcc-ar-15.com"
       - "C:/Windows/System32/OpenSSH/gcc-ar-15.exe"
       - "C:/Windows/System32/OpenSSH/gcc-ar-15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar-15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar-15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar-15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar-15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar-15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar-15"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar-15"
@@ -793,6 +863,12 @@ events:
       - "C:/Windows/System32/OpenSSH/gcc-ar15.com"
       - "C:/Windows/System32/OpenSSH/gcc-ar15.exe"
       - "C:/Windows/System32/OpenSSH/gcc-ar15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ar15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ar15"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar15.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar15.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ar15"
@@ -811,8 +887,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -844,6 +922,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
     searched_directories:
       - "D:/msys64/ucrt64/bin/gcc-ranlib-15.2.com"
@@ -867,6 +947,12 @@ events:
       - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.2.com"
       - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.2.exe"
       - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.2"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib-15.2.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib-15.2.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib-15.2"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib-15.2.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib-15.2.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib-15.2"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.2"
@@ -891,6 +977,12 @@ events:
       - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.com"
       - "C:/Windows/System32/OpenSSH/gcc-ranlib-15.exe"
       - "C:/Windows/System32/OpenSSH/gcc-ranlib-15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib-15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib-15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib-15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib-15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib-15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib-15"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib-15"
@@ -915,6 +1007,12 @@ events:
       - "C:/Windows/System32/OpenSSH/gcc-ranlib15.com"
       - "C:/Windows/System32/OpenSSH/gcc-ranlib15.exe"
       - "C:/Windows/System32/OpenSSH/gcc-ranlib15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/gcc-ranlib15"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib15.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib15.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/gcc-ranlib15"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib15.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib15.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/gcc-ranlib15"
@@ -933,8 +1031,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
   -
     kind: "find-v1"
@@ -969,6 +1069,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/bin/"
       - "D:/msys64/ucrt64/sbin/"
@@ -1007,8 +1109,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1026,8 +1130,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-czntd6"
-      binary: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-czntd6"
+      source: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-7rwaod"
+      binary: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-7rwaod"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1037,10 +1141,10 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-czntd6'
+        Change Dir: 'D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-7rwaod'
         
-        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_3326b
-        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj -c D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
+        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_43098
+        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj -c D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
         Using built-in specs.
         COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -1048,8 +1152,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_3326b.dir/'
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_3326b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\nikita\\AppData\\Local\\Temp\\ccgN7wbD.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_43098.dir/'
+         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_43098.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\nikita\\AppData\\Local\\Temp\\cc3n1nIf.s
         GNU C++17 (Rev8, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
         
@@ -1074,13 +1178,13 @@ events:
          D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_3326b.dir/'
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\nikita\\AppData\\Local\\Temp\\ccgN7wbD.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_43098.dir/'
+         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\nikita\\AppData\\Local\\Temp\\cc3n1nIf.s
         GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
         COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_3326b.exe -Wl,--out-implib,libcmTC_3326b.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.'
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_43098.exe -Wl,--out-implib,libcmTC_43098.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
         Using built-in specs.
         COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -1091,12 +1195,12 @@ events:
         gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
         COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3326b.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3326b.'
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccsFW3nQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_3326b.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_3326b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_43098.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_43098.'
+         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXAKWgE.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_43098.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_43098.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccsFW3nQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_3326b.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_3326b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXAKWgE.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_43098.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_43098.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3326b.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3326b.'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_43098.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_43098.'
         
       exitCode: 0
   -
@@ -1135,10 +1239,10 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-czntd6']
+        ignore line: [Change Dir: 'D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-7rwaod']
         ignore line: []
-        ignore line: [Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_3326b]
-        ignore line: [[1/2] D:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj -c D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
+        ignore line: [Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_43098]
+        ignore line: [[1/2] D:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj -c D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -1146,8 +1250,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_3326b.dir/']
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_3326b.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\nikita\\AppData\\Local\\Temp\\ccgN7wbD.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_43098.dir/']
+        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_43098.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\nikita\\AppData\\Local\\Temp\\cc3n1nIf.s]
         ignore line: [GNU C++17 (Rev8  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
         ignore line: []
@@ -1172,8 +1276,8 @@ events:
         ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_3326b.dir/']
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\nikita\\AppData\\Local\\Temp\\ccgN7wbD.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_43098.dir/']
+        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\nikita\\AppData\\Local\\Temp\\cc3n1nIf.s]
         ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
         ignore line: [COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/]
@@ -1184,8 +1288,8 @@ events:
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl -v CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_3326b.exe -Wl --out-implib libcmTC_3326b.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.']
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl -v CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_43098.exe -Wl --out-implib libcmTC_43098.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -1203,13 +1307,13 @@ events:
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_3326b.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_3326b.']
-        link line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccsFW3nQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_3326b.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_3326b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_43098.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_43098.']
+        link line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXAKWgE.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_43098.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_43098.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccsFW3nQ.res] ==> ignore
+          arg [-plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXAKWgE.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -1231,7 +1335,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_3326b.exe] ==> ignore
+          arg [cmTC_43098.exe] ==> ignore
           arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -1241,9 +1345,9 @@ events:
           arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
           arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+          arg [CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_3326b.dll.a] ==> ignore
+          arg [libcmTC_43098.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -1269,7 +1373,7 @@ events:
           arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccsFW3nQ.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_3326b.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_3326b.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_3326b.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXAKWgE.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_43098.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_43098.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_43098.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'CXX': D:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]
@@ -1314,8 +1418,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-nvlh9v"
-      binary: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-nvlh9v"
+      source: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-14ewe9"
+      binary: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-14ewe9"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1325,11 +1429,11 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-nvlh9v'
+        Change Dir: 'D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-14ewe9'
         
-        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_47a1d
-        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++20 -o CMakeFiles/cmTC_47a1d.dir/src.cxx.obj -c D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-nvlh9v/src.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe   CMakeFiles/cmTC_47a1d.dir/src.cxx.obj -o cmTC_47a1d.exe -Wl,--out-implib,libcmTC_47a1d.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_93220
+        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe -DCMAKE_HAVE_LIBC_PTHREAD  -std=gnu++20 -o CMakeFiles/cmTC_93220.dir/src.cxx.obj -c D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-14ewe9/src.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe   CMakeFiles/cmTC_93220.dir/src.cxx.obj -o cmTC_93220.exe -Wl,--out-implib,libcmTC_93220.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -1380,11 +1484,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6CoreToolsConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6CoreToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6coretools-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6coretools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -1412,8 +1516,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1470,11 +1576,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6GuiToolsConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6GuiToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6guitools-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6guitools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -1502,8 +1608,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1557,11 +1665,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6WidgetsToolsConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6WidgetsToolsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6widgetstools-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6widgetstools-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -1589,8 +1697,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1618,8 +1728,8 @@ events:
     checks:
       - "Performing Test HAVE_STDATOMIC"
     directories:
-      source: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-w4ayxw"
-      binary: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-w4ayxw"
+      source: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-kstcnu"
+      binary: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-kstcnu"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -1629,11 +1739,11 @@ events:
       variable: "HAVE_STDATOMIC"
       cached: true
       stdout: |
-        Change Dir: 'D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-w4ayxw'
+        Change Dir: 'D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-kstcnu'
         
-        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_85278
-        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++20 -o CMakeFiles/cmTC_85278.dir/src.cxx.obj -c D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-w4ayxw/src.cxx
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe   CMakeFiles/cmTC_85278.dir/src.cxx.obj -o cmTC_85278.exe -Wl,--out-implib,libcmTC_85278.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
+        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_34bb3
+        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe -DHAVE_STDATOMIC  -std=gnu++20 -o CMakeFiles/cmTC_34bb3.dir/src.cxx.obj -c D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/CMakeScratch/TryCompile-kstcnu/src.cxx
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe   CMakeFiles/cmTC_34bb3.dir/src.cxx.obj -o cmTC_34bb3.exe -Wl,--out-implib,libcmTC_34bb3.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 && cd ."
         
       exitCode: 0
   -
@@ -1686,11 +1796,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6ZlibPrivateConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6ZlibPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6zlibprivate-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6zlibprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -1718,8 +1828,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1778,11 +1890,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6EntryPointPrivateConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6EntryPointPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6entrypointprivate-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6entrypointprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -1810,8 +1922,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1867,11 +1981,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6CorePrivateConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6CorePrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6coreprivate-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6coreprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -1899,8 +2013,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -1946,6 +2062,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/bin/"
       - "D:/msys64/ucrt64/sbin/"
@@ -1975,8 +2093,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2031,11 +2151,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6CoreConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6CoreConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6core-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6core-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2063,8 +2183,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2111,6 +2233,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/include/"
       - "D:/msys64/ucrt64/"
@@ -2131,6 +2255,8 @@ events:
       - "C:/Windows/System32/wbem/vulkan/vulkan.h"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/vulkan/vulkan.h"
       - "C:/Windows/System32/OpenSSH/vulkan/vulkan.h"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/vulkan/vulkan.h"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/vulkan/vulkan.h"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/vulkan/vulkan.h"
       - "D:/msys64/ucrt64/include/vulkan/vulkan.h"
       - "D:/msys64/ucrt64/vulkan/vulkan.h"
@@ -2154,8 +2280,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2203,6 +2331,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/lib/"
       - "D:/msys64/ucrt64/"
@@ -2225,6 +2355,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/lib/"
       - "D:/msys64/ucrt64/"
@@ -2249,8 +2381,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2302,6 +2436,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/bin/"
       - "D:/msys64/ucrt64/sbin/"
@@ -2349,6 +2485,12 @@ events:
       - "C:/Windows/System32/OpenSSH/glslc.com"
       - "C:/Windows/System32/OpenSSH/glslc.exe"
       - "C:/Windows/System32/OpenSSH/glslc"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/glslc.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/glslc.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/glslc"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/glslc.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/glslc.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/glslc"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/glslc.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/glslc.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/glslc"
@@ -2402,8 +2544,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2451,6 +2595,8 @@ events:
       - "C:/Windows/System32/wbem/"
       - "C:/Windows/System32/WindowsPowerShell/v1.0/"
       - "C:/Windows/System32/OpenSSH/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/"
       - "D:/msys64/ucrt64/bin/"
       - "D:/msys64/ucrt64/sbin/"
@@ -2498,6 +2644,12 @@ events:
       - "C:/Windows/System32/OpenSSH/glslangValidator.com"
       - "C:/Windows/System32/OpenSSH/glslangValidator.exe"
       - "C:/Windows/System32/OpenSSH/glslangValidator"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/glslangValidator.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/glslangValidator.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/glslangValidator"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/glslangValidator.com"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/glslangValidator.exe"
+      - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/glslangValidator"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/glslangValidator.com"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/glslangValidator.exe"
       - "C:/Users/nikita/AppData/Local/Programs/Microsoft VS Code/bin/glslangValidator"
@@ -2551,8 +2703,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2608,11 +2762,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6GuiPrivateConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6GuiPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6guiprivate-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6guiprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2640,8 +2794,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2696,11 +2852,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6GuiConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6GuiConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6gui-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6gui-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2728,8 +2884,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2781,11 +2939,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6WidgetsPrivateConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6WidgetsPrivateConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6widgetsprivate-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6widgetsprivate-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2813,8 +2971,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2862,11 +3022,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6WidgetsConfig.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6WidgetsConfig.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6widgets-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6widgets-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2894,8 +3054,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2945,11 +3107,11 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/Qt6Config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/Qt6Config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/pkgRedirects/qt6-config.cmake"
+        path: "D:/Programming/cpp-projects/MAN-simulator/build/CMakeFiles/pkgRedirects/qt6-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
@@ -2977,8 +3139,10 @@ events:
         - "C:/WINDOWS/System32/Wbem"
         - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
         - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
         - "D:/msys64/ucrt64/bin"
+        - "C:/Users/nikita/AppData/Local/Programs/Python/Python314/Scripts/"
+        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Python\\Python314\\"
+        - "D:\\msys64\\ucrt64\\bin"
         - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
       CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
       CMAKE_SYSTEM_PREFIX_PATH:
@@ -2992,359 +3156,3 @@ events:
         - "D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/3rdparty/extra-cmake-modules/find-modules"
         - "D:/Qt/6.9.1/mingw_64/lib/cmake/Qt6/3rdparty/kwin"
 ...
-
----
-events:
-  -
-    kind: "message-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineSystem.cmake:212 (message)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      The system is: Windows - 10.0.26100 - AMD64
-  -
-    kind: "find-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:462 (find_file)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:500 (CMAKE_DETERMINE_COMPILER_ID_WRITE)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:8 (CMAKE_DETERMINE_COMPILER_ID_BUILD)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:2 (project)"
-    mode: "file"
-    variable: "src_in"
-    description: "Path to a file."
-    settings:
-      SearchFramework: "NEVER"
-      SearchAppBundle: "NEVER"
-      CMAKE_FIND_USE_CMAKE_PATH: true
-      CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
-      CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
-      CMAKE_FIND_USE_INSTALL_PREFIX: true
-    names:
-      - "CMakeCXXCompilerId.cpp.in"
-    candidate_directories:
-      - "D:/msys64/ucrt64/share/cmake/Modules/"
-    found: "D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerId.cpp.in"
-    search_context:
-      ENV{CMAKE_PREFIX_PATH}:
-        - "D:/Qt/6.9.1/mingw_64"
-      ENV{PATH}:
-        - "D:\\msys64\\ucrt64\\bin"
-        - "D:\\msys64\\ucrt64\\bin"
-        - "D:\\msys64\\ucrt64\\bin"
-        - "D:\\msys64\\usr\\bin"
-        - "C:/WINDOWS/system32"
-        - "C:\\WINDOWS"
-        - "C:/WINDOWS/System32/Wbem"
-        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
-        - "C:/WINDOWS/System32/OpenSSH/"
-        - "D:\\msys64\\ucrt64\\bin"
-        - "D:/msys64/ucrt64/bin"
-        - "C:\\Users\\nikita\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/MANSimulator"
-  -
-    kind: "message-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:17 (message)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerId.cmake:64 (__determine_compiler_id_test)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCXXCompiler.cmake:125 (CMAKE_DETERMINE_COMPILER_ID)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-      Compiler: D:/msys64/ucrt64/bin/g++.exe 
-      Build flags: 
-      Id flags:  
-      
-      The output was:
-      0
-      
-      
-      Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
-      
-      The CXX compiler identification is GNU, found in:
-        D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/4.1.1/CompilerIdCXX/a.exe
-      
-  -
-    kind: "try_compile-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:83 (try_compile)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    checks:
-      - "Detecting CXX compiler ABI info"
-    directories:
-      source: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-wrctka"
-      binary: "D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-wrctka"
-    cmakeVariables:
-      CMAKE_CXX_FLAGS: ""
-      CMAKE_CXX_FLAGS_DEBUG: "-g"
-      CMAKE_CXX_SCAN_FOR_MODULES: "OFF"
-      CMAKE_EXE_LINKER_FLAGS: ""
-    buildResult:
-      variable: "CMAKE_CXX_ABI_COMPILED"
-      cached: true
-      stdout: |
-        Change Dir: 'D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-wrctka'
-        
-        Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_ce498
-        [1/2] D:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj -c D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp
-        Using built-in specs.
-        COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe
-        Target: x86_64-w64-mingw32
-        Configured with: ../gcc-15.2.0/configure --prefix=/ucrt64 --with-local-prefix=/ucrt64/local --with-native-system-header-dir=/ucrt64/include --libexecdir=/ucrt64/lib --enable-bootstrap --enable-checking=release --with-arch=nocona --with-tune=generic --enable-mingw-wildcard --enable-languages=c,lto,c++,fortran,ada,objc,obj-c++,jit --enable-shared --enable-static --enable-libatomic --enable-threads=posix --enable-graphite --enable-fully-dynamic-string --enable-libstdcxx-backtrace=yes --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --disable-libstdcxx-pch --enable-lto --enable-libgomp --disable-libssp --disable-multilib --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-libiconv --with-system-zlib --with-gmp=/ucrt64 --with-mpfr=/ucrt64 --with-mpc=/ucrt64 --with-isl=/ucrt64 --with-pkgversion='Rev8, Built by MSYS2 project' --with-bugurl=https://github.com/msys2/MINGW-packages/issues --with-gnu-as --with-gnu-ld --with-libstdcxx-zoneinfo=yes --disable-libstdcxx-debug --enable-plugin --with-boot-ldflags=-static-libstdc++ --with-stage1-ldflags=-static-libstdc++
-        Thread model: posix
-        Supported LTO compression algorithms: zlib zstd
-        gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce498.dir/'
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_ce498.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXIG4l9.s
-        GNU C++17 (Rev8, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
-        	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
-        
-        GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
-        ignoring nonexistent directory "D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"
-        ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0"
-        ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32"
-        ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward"
-        ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"
-        ignoring nonexistent directory "D:/M/msys64/ucrt64/include"
-        ignoring nonexistent directory "/ucrt64/include"
-        ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"
-        ignoring nonexistent directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"
-        ignoring nonexistent directory "D:/M/msys64/ucrt64/include"
-        #include "..." search starts here:
-        #include <...> search starts here:
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
-        End of search list.
-        Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce498.dir/'
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXIG4l9.s
-        GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45
-        COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
-        LIBRARY_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.'
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl,-v CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_ce498.exe -Wl,--out-implib,libcmTC_ce498.dll.a -Wl,--major-image-version,0,--minor-image-version,0   && cd ."
-        Using built-in specs.
-        COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe
-        COLLECT_LTO_WRAPPER=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
-        Target: x86_64-w64-mingw32
-        Configured with: ../gcc-15.2.0/configure --prefix=/ucrt64 --with-local-prefix=/ucrt64/local --with-native-system-header-dir=/ucrt64/include --libexecdir=/ucrt64/lib --enable-bootstrap --enable-checking=release --with-arch=nocona --with-tune=generic --enable-mingw-wildcard --enable-languages=c,lto,c++,fortran,ada,objc,obj-c++,jit --enable-shared --enable-static --enable-libatomic --enable-threads=posix --enable-graphite --enable-fully-dynamic-string --enable-libstdcxx-backtrace=yes --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --disable-libstdcxx-pch --enable-lto --enable-libgomp --disable-libssp --disable-multilib --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-libiconv --with-system-zlib --with-gmp=/ucrt64 --with-mpfr=/ucrt64 --with-mpc=/ucrt64 --with-isl=/ucrt64 --with-pkgversion='Rev8, Built by MSYS2 project' --with-bugurl=https://github.com/msys2/MINGW-packages/issues --with-gnu-as --with-gnu-ld --with-libstdcxx-zoneinfo=yes --disable-libstdcxx-debug --enable-plugin --with-boot-ldflags=-static-libstdc++ --with-stage1-ldflags=-static-libstdc++
-        Thread model: posix
-        Supported LTO compression algorithms: zlib zstd
-        gcc version 15.2.0 (Rev8, Built by MSYS2 project) 
-        COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
-        LIBRARY_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;D:/msys64/ucrt64/bin/../lib/gcc/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ce498.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_ce498.'
-         D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccSdbPHg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ce498.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_ce498.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
-        collect2 version 15.2.0
-        D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccSdbPHg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ce498.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_ce498.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
-        GNU ld (GNU Binutils) 2.45
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ce498.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_ce498.'
-        
-      exitCode: 0
-  -
-    kind: "message-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:217 (message)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Parsed CXX implicit include dir info: rv=done
-        found start of include info
-        found start of implicit include info
-          add: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0]
-          add: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32]
-          add: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward]
-          add: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
-          add: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include]
-          add: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
-        end of search list found
-        collapse include dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0] ==> [D:/msys64/ucrt64/include/c++/15.2.0]
-        collapse include dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32] ==> [D:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32]
-        collapse include dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward] ==> [D:/msys64/ucrt64/include/c++/15.2.0/backward]
-        collapse include dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include] ==> [D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include]
-        collapse include dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include] ==> [D:/msys64/ucrt64/include]
-        collapse include dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed] ==> [D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
-        implicit include dirs: [D:/msys64/ucrt64/include/c++/15.2.0;D:/msys64/ucrt64/include/c++/15.2.0/x86_64-w64-mingw32;D:/msys64/ucrt64/include/c++/15.2.0/backward;D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include;D:/msys64/ucrt64/include;D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
-      
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:253 (message)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Parsed CXX implicit link information:
-        link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
-        linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'D:/Programming/cpp-projects/MAN-football-simulator/build/CMakeFiles/CMakeScratch/TryCompile-wrctka']
-        ignore line: []
-        ignore line: [Run Build Command(s): D:/msys64/ucrt64/bin/ninja.exe -v cmTC_ce498]
-        ignore line: [[1/2] D:\\msys64\\ucrt64\\bin\\g++.exe   -v -o CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj -c D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp]
-        ignore line: [Using built-in specs.]
-        ignore line: [COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe]
-        ignore line: [Target: x86_64-w64-mingw32]
-        ignore line: [Configured with: ../gcc-15.2.0/configure --prefix=/ucrt64 --with-local-prefix=/ucrt64/local --with-native-system-header-dir=/ucrt64/include --libexecdir=/ucrt64/lib --enable-bootstrap --enable-checking=release --with-arch=nocona --with-tune=generic --enable-mingw-wildcard --enable-languages=c,lto,c++,fortran,ada,objc,obj-c++,jit --enable-shared --enable-static --enable-libatomic --enable-threads=posix --enable-graphite --enable-fully-dynamic-string --enable-libstdcxx-backtrace=yes --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --disable-libstdcxx-pch --enable-lto --enable-libgomp --disable-libssp --disable-multilib --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-libiconv --with-system-zlib --with-gmp=/ucrt64 --with-mpfr=/ucrt64 --with-mpc=/ucrt64 --with-isl=/ucrt64 --with-pkgversion='Rev8, Built by MSYS2 project' --with-bugurl=https://github.com/msys2/MINGW-packages/issues --with-gnu-as --with-gnu-ld --with-libstdcxx-zoneinfo=yes --disable-libstdcxx-debug --enable-plugin --with-boot-ldflags=-static-libstdc++ --with-stage1-ldflags=-static-libstdc++]
-        ignore line: [Thread model: posix]
-        ignore line: [Supported LTO compression algorithms: zlib zstd]
-        ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce498.dir/']
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT D:/msys64/ucrt64/share/cmake/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles/cmTC_ce498.dir/ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXIG4l9.s]
-        ignore line: [GNU C++17 (Rev8  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
-        ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.3.1  isl version isl-0.27-GMP]
-        ignore line: []
-        ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
-        ignore line: [ignoring nonexistent directory "D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"]
-        ignore line: [ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0"]
-        ignore line: [ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32"]
-        ignore line: [ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward"]
-        ignore line: [ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include"]
-        ignore line: [ignoring nonexistent directory "D:/M/msys64/ucrt64/include"]
-        ignore line: [ignoring nonexistent directory "/ucrt64/include"]
-        ignore line: [ignoring duplicate directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed"]
-        ignore line: [ignoring nonexistent directory "D:/msys64/ucrt64/lib/gcc/../../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/include"]
-        ignore line: [ignoring nonexistent directory "D:/M/msys64/ucrt64/include"]
-        ignore line: [#include "..." search starts here:]
-        ignore line: [#include <...> search starts here:]
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0]
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/x86_64-w64-mingw32]
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include/c++/15.2.0/backward]
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include]
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../include]
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
-        ignore line: [End of search list.]
-        ignore line: [Compiler executable checksum: 3a1a95c83f0136a64748ec8c5a2a87f3]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce498.dir/']
-        ignore line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj C:\\Users\\nikita\\AppData\\Local\\Temp\\ccXIG4l9.s]
-        ignore line: [GNU assembler version 2.45 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.45]
-        ignore line: [COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
-        ignore line: [LIBRARY_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.']
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && D:\\msys64\\ucrt64\\bin\\g++.exe  -v -Wl -v CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj -o cmTC_ce498.exe -Wl --out-implib libcmTC_ce498.dll.a -Wl --major-image-version 0 --minor-image-version 0   && cd ."]
-        ignore line: [Using built-in specs.]
-        ignore line: [COLLECT_GCC=D:\\msys64\\ucrt64\\bin\\g++.exe]
-        ignore line: [COLLECT_LTO_WRAPPER=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
-        ignore line: [Target: x86_64-w64-mingw32]
-        ignore line: [Configured with: ../gcc-15.2.0/configure --prefix=/ucrt64 --with-local-prefix=/ucrt64/local --with-native-system-header-dir=/ucrt64/include --libexecdir=/ucrt64/lib --enable-bootstrap --enable-checking=release --with-arch=nocona --with-tune=generic --enable-mingw-wildcard --enable-languages=c,lto,c++,fortran,ada,objc,obj-c++,jit --enable-shared --enable-static --enable-libatomic --enable-threads=posix --enable-graphite --enable-fully-dynamic-string --enable-libstdcxx-backtrace=yes --enable-libstdcxx-filesystem-ts --enable-libstdcxx-time --disable-libstdcxx-pch --enable-lto --enable-libgomp --disable-libssp --disable-multilib --disable-rpath --disable-win32-registry --disable-nls --disable-werror --disable-symvers --with-libiconv --with-system-zlib --with-gmp=/ucrt64 --with-mpfr=/ucrt64 --with-mpc=/ucrt64 --with-isl=/ucrt64 --with-pkgversion='Rev8, Built by MSYS2 project' --with-bugurl=https://github.com/msys2/MINGW-packages/issues --with-gnu-as --with-gnu-ld --with-libstdcxx-zoneinfo=yes --disable-libstdcxx-debug --enable-plugin --with-boot-ldflags=-static-libstdc++ --with-stage1-ldflags=-static-libstdc++]
-        ignore line: [Thread model: posix]
-        ignore line: [Supported LTO compression algorithms: zlib zstd]
-        ignore line: [gcc version 15.2.0 (Rev8  Built by MSYS2 project) ]
-        ignore line: [COMPILER_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/]
-        ignore line: [LIBRARY_PATH=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_ce498.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_ce498.']
-        link line: [ D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccSdbPHg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ce498.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_ce498.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
-          arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
-          arg [-plugin] ==> ignore
-          arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
-          arg [-plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
-          arg [-plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccSdbPHg.res] ==> ignore
-          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
-          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
-          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
-          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
-          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
-          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
-          arg [-plugin-opt=-pass-through=-lpthread] ==> ignore
-          arg [-plugin-opt=-pass-through=-ladvapi32] ==> ignore
-          arg [-plugin-opt=-pass-through=-lshell32] ==> ignore
-          arg [-plugin-opt=-pass-through=-luser32] ==> ignore
-          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
-          arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
-          arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
-          arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
-          arg [-plugin-opt=-pass-through=-lmingwex] ==> ignore
-          arg [-plugin-opt=-pass-through=-lmsvcrt] ==> ignore
-          arg [-plugin-opt=-pass-through=-lkernel32] ==> ignore
-          arg [-m] ==> ignore
-          arg [i386pep] ==> ignore
-          arg [-Bdynamic] ==> search dynamic
-          arg [-o] ==> ignore
-          arg [cmTC_ce498.exe] ==> ignore
-          arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
-          arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
-          arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
-          arg [-LD:/msys64/ucrt64/bin/../lib/gcc] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc]
-          arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib]
-          arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib]
-          arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib]
-          arg [-LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
-          arg [-v] ==> ignore
-          arg [CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
-          arg [--out-implib] ==> ignore
-          arg [libcmTC_ce498.dll.a] ==> ignore
-          arg [--major-image-version] ==> ignore
-          arg [0] ==> ignore
-          arg [--minor-image-version] ==> ignore
-          arg [0] ==> ignore
-          arg [-lstdc++] ==> lib [stdc++]
-          arg [-lmingw32] ==> lib [mingw32]
-          arg [-lgcc_s] ==> lib [gcc_s]
-          arg [-lgcc] ==> lib [gcc]
-          arg [-lmingwex] ==> lib [mingwex]
-          arg [-lmsvcrt] ==> lib [msvcrt]
-          arg [-lkernel32] ==> lib [kernel32]
-          arg [-lpthread] ==> lib [pthread]
-          arg [-ladvapi32] ==> lib [advapi32]
-          arg [-lshell32] ==> lib [shell32]
-          arg [-luser32] ==> lib [user32]
-          arg [-lkernel32] ==> lib [kernel32]
-          arg [-lmingw32] ==> lib [mingw32]
-          arg [-lgcc_s] ==> lib [gcc_s]
-          arg [-lgcc] ==> lib [gcc]
-          arg [-lmingwex] ==> lib [mingwex]
-          arg [-lmsvcrt] ==> lib [msvcrt]
-          arg [-lkernel32] ==> lib [kernel32]
-          arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
-          arg [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
-        ignore line: [collect2 version 15.2.0]
-        ignore line: [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=C:\\Users\\nikita\\AppData\\Local\\Temp\\ccSdbPHg.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_ce498.exe D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LD:/msys64/ucrt64/bin/../lib/gcc -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LD:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v CMakeFiles/cmTC_ce498.dir/CMakeCXXCompilerABI.cpp.obj --out-implib libcmTC_ce498.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
-        linker tool for 'CXX': D:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe
-        remove lib [msvcrt]
-        remove lib [msvcrt]
-        collapse obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> [D:/msys64/ucrt64/lib/crt2.o]
-        collapse obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> [D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
-        collapse obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> [D:/msys64/ucrt64/lib/default-manifest.o]
-        collapse obj [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> [D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
-        collapse library dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> [D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0]
-        collapse library dir [D:/msys64/ucrt64/bin/../lib/gcc] ==> [D:/msys64/ucrt64/lib/gcc]
-        collapse library dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib] ==> [D:/msys64/ucrt64/x86_64-w64-mingw32/lib]
-        collapse library dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib] ==> [D:/msys64/ucrt64/lib]
-        collapse library dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib] ==> [D:/msys64/ucrt64/x86_64-w64-mingw32/lib]
-        collapse library dir [D:/msys64/ucrt64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> [D:/msys64/ucrt64/lib]
-        implicit libs: [stdc++;mingw32;gcc_s;gcc;mingwex;kernel32;pthread;advapi32;shell32;user32;kernel32;mingw32;gcc_s;gcc;mingwex;kernel32]
-        implicit objs: [D:/msys64/ucrt64/lib/crt2.o;D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o;D:/msys64/ucrt64/lib/default-manifest.o;D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
-        implicit dirs: [D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0;D:/msys64/ucrt64/lib/gcc;D:/msys64/ucrt64/x86_64-w64-mingw32/lib;D:/msys64/ucrt64/lib]
-        implicit fwks: []
-      
-      
-  -
-    kind: "message-v1"
-    backtrace:
-      - "D:/msys64/ucrt64/share/cmake/Modules/Internal/CMakeDetermineLinkerId.cmake:36 (message)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeDetermineCompilerABI.cmake:299 (cmake_determine_linker_id)"
-      - "D:/msys64/ucrt64/share/cmake/Modules/CMakeTestCXXCompiler.cmake:26 (CMAKE_DETERMINE_COMPILER_ABI)"
-      - "CMakeLists.txt:2 (project)"
-    message: |
-      Running the CXX compiler's linker: "D:/msys64/ucrt64/x86_64-w64-mingw32/bin/ld.exe" "-v"
-      GNU ld (GNU Binutils) 2.45

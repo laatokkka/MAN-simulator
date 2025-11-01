@@ -75,7 +75,7 @@ void Menu::display_ui() {
     QVBoxLayout* right_box = new QVBoxLayout(right_panel_);
 
     // TODO отрисовка масштабируемого поля
-    field_ = new Field(this);
+    game_field_ = new GameField(this);
 
     // Вывод всех элементов на экран
 
@@ -89,7 +89,7 @@ void Menu::display_ui() {
     left_box->addStretch();
 
     // Тут отображение правой части
-    right_box->addWidget(field_);
+    right_box->addWidget(game_field_);
     
     root_box_->addWidget(left_panel_);
     root_box_->addWidget(right_panel_);
