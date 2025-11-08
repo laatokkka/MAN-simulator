@@ -15,6 +15,7 @@ class Menu : public QWidget {
 
         QWidget *left_panel_ = nullptr;
         QWidget *right_panel_ = nullptr;
+        QWidget *main_window = nullptr;
 
         unsigned short blue_scored_, red_scored_;
 
