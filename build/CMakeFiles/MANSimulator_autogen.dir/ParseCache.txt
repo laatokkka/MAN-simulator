@@ -1792,7 +1792,8 @@ D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/PlayerDialog.h
  mdp:D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h
  mdp:D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h
  mdp:D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h
-D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp
+D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp
+D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.cpp
 D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h
  mmc:Q_OBJECT
  mdp:D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/moc_predefs.h
@@ -2267,5 +2268,4 @@ D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.h
  mdp:D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h
  mdp:D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h
  mdp:D:/msys64/ucrt64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h
-D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/GameField.cpp
-D:/Programming/cpp-projects/MAN-simulator/server/gui/scene/Field.cpp
+D:/Programming/cpp-projects/MAN-simulator/server/gui/Settings.cpp

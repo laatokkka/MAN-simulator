@@ -1,14 +1,14 @@
 # ninja log v7
-62	1748	7837149726345980	MANSimulator_autogen/timestamp	93451437f423d243
-62	1748	7837149726345980	MANSimulator_autogen/mocs_compilation.cpp	93451437f423d243
-62	1748	7837149726345980	D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/timestamp	93451437f423d243
-62	1748	7837149726345980	D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/mocs_compilation.cpp	93451437f423d243
+34	299	7843128514803189	MANSimulator_autogen/timestamp	93451437f423d243
+34	299	7843128514803189	MANSimulator_autogen/mocs_compilation.cpp	93451437f423d243
+34	299	7843128514803189	D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/timestamp	93451437f423d243
+34	299	7843128514803189	D:/Programming/cpp-projects/MAN-simulator/build/MANSimulator_autogen/mocs_compilation.cpp	93451437f423d243
 458	7039	7836975035641555	CMakeFiles/MANSimulator.dir/server/gui/Settings.cpp.obj	c62b0e72efc5e904
-1764	10610	7837149727798035	CMakeFiles/MANSimulator.dir/server/Server.cpp.obj	a4ac9b05664c27ee
-1774	10800	7837149727902606	CMakeFiles/MANSimulator.dir/server/gui/Menu.cpp.obj	2994db17e2276897
-1751	10764	7837149727682167	CMakeFiles/MANSimulator.dir/MANSimulator_autogen/mocs_compilation.cpp.obj	c902dddc681b7455
+1653	9336	7843082272048827	CMakeFiles/MANSimulator.dir/server/Server.cpp.obj	a4ac9b05664c27ee
+301	6030	7843128517471427	CMakeFiles/MANSimulator.dir/server/gui/Menu.cpp.obj	2994db17e2276897
+1643	9579	7843082271965230	CMakeFiles/MANSimulator.dir/MANSimulator_autogen/mocs_compilation.cpp.obj	c902dddc681b7455
 323	6351	7836997258656641	CMakeFiles/MANSimulator.dir/server/gui/scene/Field.cpp.obj	22317bd6cbceb274
-10914	11374	7837149819298753	MANSimulator.exe	129e745563dcfc89
+6031	6373	7843128574768539	MANSimulator.exe	129e745563dcfc89
 1370	7023	7837019282520557	CMakeFiles/MANSimulator.dir/server/gui/scene/AddPlayerDialog.cpp.obj	7cfca8951abb416d
-1783	10913	7837149728002627	CMakeFiles/MANSimulator.dir/server/gui/scene/GameField.cpp.obj	3693f07b6f152424
-1792	10567	7837149728085084	CMakeFiles/MANSimulator.dir/server/gui/scene/PlayerDialog.cpp.obj	c95262d40a202366
+414	15623	7843078659067783	CMakeFiles/MANSimulator.dir/server/gui/scene/GameField.cpp.obj	3693f07b6f152424
+424	14989	7843078659153996	CMakeFiles/MANSimulator.dir/server/gui/scene/PlayerDialog.cpp.obj	c95262d40a202366

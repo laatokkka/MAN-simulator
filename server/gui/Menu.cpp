@@ -94,9 +94,34 @@ void Menu::display_ui() {
     root_box_->addWidget(right_panel_);
 }
 
+#include <QGuiApplication>
+#include <QScreen>
+
 void Menu::connect_ui() {
     QObject::connect(settings_button_, &QPushButton::clicked, this, [this]{
         // TODO создание отдельного окна
+        main_window = new QWidget(nullptr);
+
+        QScreen *screen = QGuiApplication::primaryScreen();
+        QRect screenGeometry = screen->geometry();
+
+        int screenWidth = screenGeometry.width();
+        int screenHeight = screenGeometry.height();
+
+        main_window->resize(screenWidth, screenHeight);
+        QPushButton *close_button = new QPushButton("Выход", main_window);
+
+        close_button->move(main_window->width() - close_button->width() - 10, 10);
+        QObject::connect(close_button, &QPushButton::clicked, main_window, &QWidget::close);
+        main_window->show();
+
+        main_window->showFullScreen();
+
+        if (!main_window->isFullScreen()) {
+            qDebug() << QString::fromUtf8("Окно не в полноэкранном режиме.");
+        } else {
+            qDebug() << QString::fromUtf8("Окно в полноэкранном режиме.");
+        }
     });
 
     QObject::connect(simulation_button_, &QPushButton::toggled, this, [this](bool is_checked) {
